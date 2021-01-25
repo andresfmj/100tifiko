@@ -1,0 +1,31 @@
+{
+  "name": "100tifiko",
+  "version": "1.0.0",
+  "description": "single page app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresfmj/100tifiko.git"
+  },
+  "keywords": [
+    "javascript",
+    "vanilla"
+  ],
+  "author": "Andres Fernando <andres.fernando08@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andresfmj/100tifiko/issues"
+  },
+  "homepage": "https://github.com/andresfmj/100tifiko#readme",
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "babel-loader": "^8.2.2",
+    "html-webpack-plugin": "^4.5.1",
+    "webpack": "^5.17.0",
+    "webpack-cli": "^4.4.0",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
